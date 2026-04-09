@@ -1,0 +1,2 @@
+//array
+ const myarr = [1,2,3,4];
